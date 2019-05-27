@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle vita-validate",
+        "command": "vita-validate:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "vitasoft-kiom",
+          "submenu": [
+            {
+              "label": "vita-validate",
+              "command": "vita-validate:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
