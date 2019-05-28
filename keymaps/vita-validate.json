@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-v": "vita-validate:toggle"
+    "ctrl-alt-o": "vita-validate:toggle"
   }
 }
