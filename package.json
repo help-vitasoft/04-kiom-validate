@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "vita-validate:toggle"
   },
-  "repository": "https://github.com/imwanju/vita-validate.git",
+  "repository": "https://github.com/help-vitasoft/vita-validate.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
