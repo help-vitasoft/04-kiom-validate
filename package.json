@@ -1,13 +1,13 @@
 {
-  "name": "vita-validate",
+  "name": "kiom-validate",
   "main": "./lib/vita-validate",
   "version": "0.0.2",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "vita-validate:toggle"
+    "atom-workspace": "kiom-validate:toggle"
   },
-  "repository": "https://github.com/scy-vitasoft/vita-validate.git",
+  "repository": "https://github.com/imwanju/vita-validate.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
