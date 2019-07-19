@@ -1,7 +1,7 @@
 {
   "name": "04-kiom-validate",
   "main": "./lib/vita-validate",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
