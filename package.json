@@ -1,5 +1,5 @@
 {
-  "name": "vita-validate",
+  "name": "04-kiom-validate",
   "main": "./lib/vita-validate",
   "version": "0.1.6",
   "description": "A short description of your package",
